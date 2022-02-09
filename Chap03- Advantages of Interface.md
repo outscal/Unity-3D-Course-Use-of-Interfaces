@@ -1,4 +1,4 @@
-## 4. Advantages of Interface
+## Advantages of Interface
 
 1. The main advantage of C# interfaces is that they can be used by multiple classes, so instead of calling GetComponent for each script, you can get all the script references by using the interface name
 2. Creates common functionality which can be called that doesn’t depend on the object type

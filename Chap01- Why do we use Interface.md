@@ -1,4 +1,4 @@
-## 2. Why do we use Interface?
+## Why do we use Interface?
 
 ![](Images/1.png)
 

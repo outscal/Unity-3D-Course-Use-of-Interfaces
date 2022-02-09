@@ -1,4 +1,4 @@
-## 3. Use of Interfaces
+## Use of Interfaces
 
 Interfaces are useful when you want to refer to several disparate objects by a common attribute - this makes it possible to put things into lists and iterate through them, even if they are very different classes. 
 

@@ -1,4 +1,4 @@
-## 5. Things to remember while implementing Interfaces
+## Things to remember while implementing Interfaces
 
 1. Use the C# interfaces when you need to implement the same methods in more than one script, or when you need to reference an unknown class in the same context
 2. Interface members don't have access to modifiers, as they are all public.

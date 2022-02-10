@@ -5,5 +5,3 @@
 3. The interface enables the plug-and-play method
 4. Complete Abstraction can be achieved by the implementation of Interface
 5. Along with making our code easy to maintain, concept loose coupling can be achieved
-
->💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**

@@ -21,5 +21,3 @@ interface <name_for_interface>{//abstract methods//abstract properties.}
 ```
 
 These interfaces can hold various methods, indexers, properties and also events as members.
-
->💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**

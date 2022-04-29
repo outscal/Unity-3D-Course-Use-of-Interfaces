@@ -29,13 +29,12 @@ Like this -
 public class EnemyView: Monobehaviour, IDamagable, IShootable
 	 {
 	    public void TakeDamage(float damage)
-            public void TakeBullets(int bullets)
-	    
-      	   {
+	   {
              controller.ApplyDamage(damage);
            }
         
-           {
+            public void TakeBullets(int bullets)
+	  {
              controller.shootBullets(bullets);
            } 
 	   
@@ -48,6 +47,7 @@ public class EnemyController
  	    public void ApplyDamage(float damage)
            {
               if (model.health <= 0) return;
+	      
               if (model.health - damage <= 0)
               {
                   //enemy dead
